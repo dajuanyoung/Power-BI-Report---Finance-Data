@@ -11,7 +11,7 @@ This Power BI Report builds on my existing knowledge of the tool, spending time 
 * The data itself consisted of financial data based on dummy data for countries, split up by segments.
 
 * My main goal was to show an executive level finance overview of the data and then drill into the product detail to look at specifics. I also threw in a quick map detail with tooltips that show some more detail.
-* 
+  
 # Power BI WorkFlow Steps Used
 
 * Loading and Transforming data in Power Query Editor
